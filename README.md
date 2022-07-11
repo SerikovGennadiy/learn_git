@@ -1,5 +1,11 @@
-# My first project
+# Шпаргалка по git
 
-## Mentor
- Nikolay
- **Mischenkov**
+### Преподаватель
+ Николай
+ **Мищенков**
+<hr/>
+
+### Основные настройки git
+
+* #### git config --global user.name &lt;name&gt; <br/> `указать имя пользователя`
+
