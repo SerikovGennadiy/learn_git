@@ -55,6 +55,14 @@
 
 <hr>
 
+### <a id="rebase"></a> Rebase и stash
+
+<hr>
+
+### <a id="remote"></a> Удаленный репозиторий
+
+<hr>
+
 ### <a id="links"></a> Полезные ссылки
 
 > [гит для новичков](https://habr.com/ru/post/541258/)
