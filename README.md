@@ -4,14 +4,16 @@
 1. [Основные](#main) настройки
 2. [Базовые](#base) команды
 3. [Bетвления](#branch) 
-4. [Удаленный](#remote) репозиторий
+4. [Rebase](#rebase) 
+5. [Удаленный](#remote) репозиторий
+6. [Полезные ссылки](#links)
 
 ### Преподаватель
  Николай
  **Мищенков**
 <hr/>
 
-### Основные настройки git
+### <a id="main"></a> Основные настройки git
 
 * #### git config --global user.name &lt;name&gt; <br/> `указать имя пользователя`
 * #### git config --global user.email &lt;abc@main.com&gt; <br/> `указать его эл/почту`
@@ -20,7 +22,7 @@
 
 <hr>
 
-### Команды
+### <a id="base"></a> Команды
 
 * #### git init <br/> `иницировать локальный git-репозиторий в текущей папке`
 * #### git status <br/> `смотрим статус, что творится в репозитории`
@@ -35,14 +37,14 @@
 
 <hr>
 
-### Ветвления 
+### <a id="branch"></a> Ветвления 
 * #### git branch <br/> `посмотреть список веток (текущая*)`
 * #### git checkout -b &lt;newbranch&gt; <br/> `создать ветку и перейти в нее`
 * #### git branch -D &lt;branch&gt; <br/> `удалить ветку`
 
 <hr>
 
-### SSH настройка
+### <a id="ssh"></a> SSH настройка
 * #### ssh-keygen -t rsa -b 4096 -C &lt;credentials&gt; <br/> `сгенерировать пару ssh-ключей (открытый и закрытый)`
 <code>Публичный ключ добавляется на Github (Settings -> SSH and GPG)</code>
 
@@ -52,10 +54,12 @@
 
 <hr>
 
-### Полезные ссылки
+### <a id="links"></a> Полезные ссылки
 
+> [гит для новичков](https://habr.com/ru/post/541258/)
 
 > [как оформлять .md файлы](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 > [соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0-beta.2/)
 
+> [коротко о ssh](https://habr.com/ru/sandbox/166705/)
