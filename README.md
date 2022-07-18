@@ -54,8 +54,10 @@
 
 ### Полезные ссылки
 
+> [гит для новичков](https://habr.com/ru/post/541258/)
 
 > [как оформлять .md файлы](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
 > [соглашение о коммитах](https://www.conventionalcommits.org/ru/v1.0.0-beta.2/)
 
+> [коротко о ssh](https://habr.com/ru/sandbox/166705/)
